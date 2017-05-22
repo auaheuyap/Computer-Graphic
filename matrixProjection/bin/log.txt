@@ -1,0 +1,20 @@
+===== Log started at 2017-05-22, 20:42:26. =====
+
+20:42:26  Main window is created.
+20:42:26  Created a rendering thread for OpenGL.
+20:42:26  Changed OpenGL rendering window size: 296x596.
+20:42:26  OpenGL child window is created.
+20:42:26  Initialized OpenGL states.
+20:42:26  Entering OpenGL rendering thread...
+20:42:26  OpenGL form dialog is created.
+20:42:26  Changed OpenGL rendering window size: 300x604.
+20:42:26  W: 306, H: 608
+20:42:26  Changed OpenGL rendering window size: 302x604.
+20:42:26  W: 306, H: 608
+20:42:35  Closing the application...
+20:42:35  Main windows is destroyed.
+20:42:35  Exit OpenGL rendering thread.
+20:42:35  Application is terminated.
+
+
+===== END OF LOG =====
